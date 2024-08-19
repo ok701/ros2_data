@@ -1,0 +1,11 @@
+stamp,level,name,msg,file,function,line
+"OrderedDict([('sec', 1722489878), ('nanosec', 44254672)])",20,rosbag2_recorder,Press SPACE for pausing/resuming,./src/rosbag2_transport/recorder.cpp,Recorder,104
+"OrderedDict([('sec', 1722489878), ('nanosec', 47983712)])",20,rosbag2_recorder,Listening for topics...,./src/rosbag2_transport/recorder.cpp,record,195
+"OrderedDict([('sec', 1722489878), ('nanosec', 47999713)])",20,rosbag2_recorder,Event publisher thread: Starting,./src/rosbag2_transport/recorder.cpp,event_publisher_thread_main,215
+"OrderedDict([('sec', 1722489878), ('nanosec', 49193191)])",20,rosbag2_recorder,Subscribed to topic '/rosout',./src/rosbag2_transport/recorder.cpp,subscribe_topic,368
+"OrderedDict([('sec', 1722489878), ('nanosec', 49846504)])",20,rosbag2_recorder,Subscribed to topic '/parameter_events',./src/rosbag2_transport/recorder.cpp,subscribe_topic,368
+"OrderedDict([('sec', 1722489878), ('nanosec', 54069404)])",20,rosbag2_recorder,Subscribed to topic '/joint3_pos_rot',./src/rosbag2_transport/recorder.cpp,subscribe_topic,368
+"OrderedDict([('sec', 1722489878), ('nanosec', 54585054)])",20,rosbag2_recorder,Subscribed to topic '/joint1_pos_rot',./src/rosbag2_transport/recorder.cpp,subscribe_topic,368
+"OrderedDict([('sec', 1722489878), ('nanosec', 55117726)])",20,rosbag2_recorder,Subscribed to topic '/joint2_pos_rot',./src/rosbag2_transport/recorder.cpp,subscribe_topic,368
+"OrderedDict([('sec', 1722489878), ('nanosec', 55717625)])",20,rosbag2_recorder,Subscribed to topic '/events/write_split',./src/rosbag2_transport/recorder.cpp,subscribe_topic,368
+"OrderedDict([('sec', 1722489878), ('nanosec', 55799460)])",20,rosbag2_recorder,Recording...,./src/rosbag2_transport/recorder.cpp,record,209
